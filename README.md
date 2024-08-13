@@ -54,12 +54,6 @@
 </p>
 <p align="center"> <img src="/assets/morty.gif" /> </p>
 
-[![An image of @anandProneel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anandProneel)](https://holopin.io/@anandProneel)
-
-<!-- LeetCode Stats Card ❤️ -->
-
-[![proneelbanerjee's GitHub | Stats](https://stats.quine.sh/proneelbanerjee/github?theme=dark)](https://quine.sh)
-
 ![Proneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=proneelbanerjee&theme=tokyonight&show_icons=true)
 
 ![Proneel's Streak](https://github-readme-streak-stats.herokuapp.com?user=proneelbanerjee&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
@@ -68,11 +62,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proneelbanerjee&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-Know with me ✨✨
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-
-
-<!---/
-proneelbanerjee/proneelbanerjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
