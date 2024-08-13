@@ -1,12 +1,11 @@
 <h3 align="center">
-  Welcome to Harsh's profile!
+  Welcome to Proneel's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- 👋 Hi, I’m Harsh
-- 👀 I’m interested in Designing Webpapps and machine learning or natual language processing models
-- 💞️ I’m looking to collaborate on Webpage Designing && Machine Learning Model to End to End application
-- 📫 Reach me through harsh.anand.ggl@gmail.com
+- 👋 Hi, I’m Proneel
+- 👀 I’m interested in Designing Webb applications.
+- 📫 Reach me through Proneel@gmail.com
 
 # What I know ??!!!
 
@@ -36,47 +35,44 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/i.harshanand)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-harsh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://mobile.twitter.com/anand__harsh)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/harsh.anand245/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/i.Proneelanand)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/proneelbanerjee)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://mobile.twitter.com/anand__Proneel)
 
 <p align="center"> 
-  <a href="https://github.com/anand-harsh?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/anand-harsh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/anand-harsh?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/anand-harsh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/proneelbanerjee?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/proneelbanerjee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/proneelbanerjee?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/proneelbanerjee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=anand-harsh)
+![](https://komarev.com/ghpvc/?username=proneelbanerjee)
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <h2 align="center">🏆 Trophies</h2>
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=anand-harsh&margin-w=30&theme=onedark&row=1"/>
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=proneelbanerjee&margin-w=30&theme=onedark&row=1"/>
 </p>
 <p align="center"> <img src="/assets/morty.gif" /> </p>
 
-[![An image of @anandharsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anandharsh)](https://holopin.io/@anandharsh)
+[![An image of @anandProneel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anandProneel)](https://holopin.io/@anandProneel)
 
 <!-- LeetCode Stats Card ❤️ -->
 
-[![anand-harsh's GitHub | Stats](https://stats.quine.sh/anand-harsh/github?theme=dark)](https://quine.sh)
+[![proneelbanerjee's GitHub | Stats](https://stats.quine.sh/proneelbanerjee/github?theme=dark)](https://quine.sh)
 
-[![anand-harsh's GitHub | Languages Over Time](https://stats.quine.sh/anand-harsh/languages-over-time?theme=dark)](https://quine.sh)
+![Proneel's GitHub stats](https://github-readme-stats.vercel.app/api?username=proneelbanerjee&theme=tokyonight&show_icons=true)
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-harsh&theme=tokyonight&show_icons=true)
-
-![Harsh's Streak](https://github-readme-streak-stats.herokuapp.com?user=anand-harsh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+![Proneel's Streak](https://github-readme-streak-stats.herokuapp.com?user=proneelbanerjee&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-harsh&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proneelbanerjee&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 Know with me ✨✨
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 
 <!---/
-anand-harsh/anand-harsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+proneelbanerjee/proneelbanerjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
