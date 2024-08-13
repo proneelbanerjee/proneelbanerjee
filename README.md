@@ -39,6 +39,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/proneelbanerjee)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://mobile.twitter.com/anand__Proneel)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Proneel?theme=light&font=Biryani)
+
 <p align="center"> 
   <a href="https://github.com/proneelbanerjee?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/proneelbanerjee?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
