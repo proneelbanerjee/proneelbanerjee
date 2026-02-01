@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Proneel
 - 👀 I’m interested in Designing Webb applications.
-- 📫 Reach me through proneelwork03@gmail.com
+- 📫 Reach me through proneel.uni@gmail.com
 
 # What I know ??!!!
 
