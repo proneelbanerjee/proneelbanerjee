@@ -4,7 +4,7 @@
 </h3>
 
 - 👋 Hi, I’m Proneel
-- 👀 I’m interested in Designing Webb applications.
+- 👀 I’m interested in Web Developement and Data Analytics and Machine Learning.
 - 📫 Reach me through proneel.uni@gmail.com
 
 # What I know ??!!!
