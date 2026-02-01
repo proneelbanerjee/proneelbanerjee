@@ -30,7 +30,7 @@
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8A2BE2)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=machine-learning&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 
